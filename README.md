@@ -1,16 +1,18 @@
-## Hi there 👋
+## ☁️ Cloud Solutions Engineer | DevOps & Azure Expert
 
-<!--
-**atxpaul/atxpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about crafting scalable, automated systems in the cloud. My experience spans **DevOps engineering**, **project management**, and hands-on **WMS/SGA implementations** at an international scale.
 
-Here are some ideas to get you started:
+🎯 Proven track record leading DevOps initiatives for major clients, significantly reducing deployment downtime and optimizing logistics operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Expertise
+
+- **Azure Certified:** AZ-104, AZ-305, Azure Solutions Architect Expert
+- **Cloud Platforms:** Azure (primary), AWS (proficient)
+- **DevOps Tools:** Terraform, Ansible, Jenkins, Docker, Kubernetes
+- **Programming:** Python, JavaScript, Bash
+- **Databases:** SQL Server, PostgreSQL, MongoDB
+
+### 🎓 Education
+
+- **MSc Data Science** (Relevant coursework in machine learning, cloud computing)
+- **BSc Backend Programming** (Strong foundation in software development principles)
