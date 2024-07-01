@@ -6,13 +6,10 @@
 
 ### 🛠️ Technical Expertise
 
-- **Azure Certified:** AZ-104, AZ-305, Azure Solutions Architect Expert
+- **Azure Certified:** AZ-104, AZ-305 Azure Solutions Architect Expert
 - **Cloud Platforms:** Azure (primary), AWS (proficient)
-- **DevOps Tools:** Terraform, Ansible, Jenkins, Docker, Kubernetes
-- **Programming:** Python, JavaScript, Bash
+- **DevOps Tools:** Terraform, Docker, Kubernetes
+- **Programming:** Python, JavaScript, Bash, PowerShell
 - **Databases:** SQL Server, PostgreSQL, MongoDB
 
-### 🎓 Education
-
-- **MSc Data Science** (Relevant coursework in machine learning, cloud computing)
-- **BSc Backend Programming** (Strong foundation in software development principles)
+Let's connect on [LinkedIn](https://www.linkedin.com/in/pablo-pan-veira/)! 🤝 
